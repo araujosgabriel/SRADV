@@ -12,6 +12,8 @@
   - Arduino Uno
   - Sensores Ultrassônicos HC-SR04
   - Buzzers Ativos
+
+  Esquema Conceitual: 
   ![Conceptual Schema](./sketch%20conceitual.png)
 
 
