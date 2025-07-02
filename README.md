@@ -13,7 +13,8 @@
   - Sensores Ultrassônicos HC-SR04
   - Buzzers Ativos
 
-  Esquema Conceitual: 
+  Esquema Conceitual:
+  
   ![Conceptual Schema](./sketch%20conceitual.png)
 
 
