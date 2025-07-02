@@ -17,5 +17,7 @@
   
   <img src="./sketch conceitual.png" width="600px">
   
+  *Este esquema pode não apresentar com precisão a construção final do sistema eletrônico.*
+  
 
 
