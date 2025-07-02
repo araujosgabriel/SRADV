@@ -14,7 +14,7 @@
   - Buzzers Ativos
 
   Esquema Conceitual:
-  
+  <img src="./sketch conceitual.png" width="400px">
   ![Conceptual Schema](./sketch%20conceitual.png)
 
 
