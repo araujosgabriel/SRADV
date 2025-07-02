@@ -8,4 +8,10 @@
   Este projeto visa desenvolver um sistema de orientação sonora embarcado, baseado em sensores ultrassônicos e atuadores sonoros (buzzers), acoplado a um andador de 3 rodas. O sistema permite ao usuário identificar a presença de obstáculos nos arredores do andador através de sinais sonoros de forma simples e intuitiva.
   A proposta contribui para o aumento da independência e a segurança de pessoas com deficiência visual e dificuldades motoras, oferecendo um recurso de baixo custo, fácil montagem e de grande potencial de adaptação.
 
+- **Tecnologia Utilizada**:
+  - Arduino Uno
+  - Sensores Ultrassônicos HC-SR04
+  - Buzzers Ativos
+  ![Conceptual Schema](./sketch%20conceitual.png)
+
 
